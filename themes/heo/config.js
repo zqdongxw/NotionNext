@@ -71,7 +71,7 @@ const CONFIG = {
       img_1: '/images/heo/yuanyinzushi3.jpg',
       color_1: '#eb6840',
       title_2: 'yuanyinzushi4',
-      img_2: '/images/heo/yuanyinzushi4.jpg.webp',
+      img_2: '/images/heo/yuanyinzushi4.jpg',
       color_2: '#8f55ba'
     }
      
