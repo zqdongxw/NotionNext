@@ -38,7 +38,8 @@ const CONFIG = {
     '南无心密历代祖师',
     '南无根本上师元音阿阇黎'
   ],
-  HEO_INFO_CARD_URL: '', // 个人资料底部按钮链接
+  
+  HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
@@ -77,10 +78,10 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_TITLE_1: '齐说齐闻',
+  HEO_SOCIAL_CARD_TITLE_2: '周一 晚上 7:30-9:00',
+  HEO_SOCIAL_CARD_TITLE_3: '点击加入腾讯会议',
+  HEO_SOCIAL_CARD_URL: 'https://meeting.tencent.com/dw/KKFYupjykzoG',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
