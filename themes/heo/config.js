@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '心中心法简介', url: 'https://blog.customai.win/xinzhongxin' },
+    { title: '十大行愿', url: 'https://blog.customai.win/xingyuan' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -15,17 +15,17 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: '唯有如来心中心',
+  HEO_HERO_TITLE_2: '余不能及',
+  HEO_HERO_TITLE_3: '印心学堂',
+  HEO_HERO_TITLE_4: '祖师开示',
+  HEO_HERO_TITLE_5: '心密影音',
+  HEO_HERO_TITLE_LINK: 'http://www.hljsyxjs.net/pc/video',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_1: { title: '大愚阿阇黎', url: '/tag/大愚阿阇黎' },
+  HEO_HERO_CATEGORY_2: { title: '仁知阿阇黎', url: '/tag/仁知阿阇黎' },
+  HEO_HERO_CATEGORY_3: { title: '元音阿阇黎', url: '/tag/元音阿阇黎' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -34,15 +34,11 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+     '你好！',
+    '南无心密历代祖师',
+    '南无根本上师元音阿阇黎'
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: '', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
@@ -77,38 +73,14 @@ const CONFIG = {
       title_2: 'yuanyinzushi4',
       img_2: '/images/heo/yuanyinzushi4.jpg',
       color_2: '#8f55ba'
-    },
-    {
-      title_1: 'illustrator',
-      img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
-      color_1: '#f29e39',
-      title_2: 'CSS3',
-      img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
-      color_2: '#2c51db'
-    },
-    {
-      title_1: 'JS',
-      img_1: '/images/heo/2023786e7fc488f453d5fb2be760c96185c0075502.webp',
-      color_1: '#f7cb4f',
-      title_2: 'HTML',
-      img_2: '/images/heo/202372b4d760fd8a497d442140c295655426070302.webp',
-      color_2: '#e9572b'
-    },
-    {
-      title_1: 'Git',
-      img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
-      color_1: '#df5b40',
-      title_2: 'Rhino',
-      img_2: '/images/heo/20231ca53fa0b09a3ff1df89acd7515e9516173302.webp',
-      color_2: '#1f1f1f'
     }
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_TITLE_1: '齐说齐闻',
+  HEO_SOCIAL_CARD_TITLE_2: '周一 晚上 7:30-9:00',
+  HEO_SOCIAL_CARD_TITLE_3: '点击加入腾讯会议',
+  HEO_SOCIAL_CARD_URL: 'https://meeting.tencent.com/dw/KKFYupjykzoG',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
