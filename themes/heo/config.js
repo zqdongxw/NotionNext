@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '唯有如来心中心，余不能及', url: 'https://blog.customai.win/xinzhongxin' },
-    { title: '有朋自远方来，不亦乐乎', url: '' }
+    { title: '心中心法简介', url: 'https://blog.customai.win/xinzhongxin' },
+    { title: '十大行愿', url: 'https://blog.customai.win/xingyuan' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -34,13 +34,11 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
-    '印心学徒',
-    '印心宗',
-    '海惟',
-    ''
+    '你好！',
+    '南无心密历代祖师',
+    '南无根本上师元音阿阇黎'
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: '', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
