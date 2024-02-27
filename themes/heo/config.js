@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '心中心法简介', url: 'https://blog.customai.win/xinzhongxin' },
+    { title: '心中心法简介', url: 'https://blog.customai.win/about' },
     { title: '十大行愿', url: 'https://blog.customai.win/xingyuan' }
   ],
 
@@ -39,7 +39,7 @@ const CONFIG = {
     '南无根本上师元音阿阇黎'
   ],
   
-  HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  //HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接，经测试留空的话有bug
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
