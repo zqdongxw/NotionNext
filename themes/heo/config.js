@@ -39,7 +39,7 @@ const CONFIG = {
     '南无根本上师元音阿阇黎'
   ],
   
-  //HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接，经测试留空的话有bug
+  HEO_INFO_CARD_URL: 'https://4h3y6x-my.sharepoint.com/:f:/g/personal/haiwei_4h3y6x_onmicrosoft_com/Etr-M9unjUFPhwr8JG3GHa0B79zjVCGGuaPCrlvFaRU3vw?e=0M3NVS', // 个人资料底部按钮链接，经测试留空的话有bug
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
