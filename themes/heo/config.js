@@ -78,10 +78,10 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '齐说齐闻',
-  HEO_SOCIAL_CARD_TITLE_2: '周一 晚上 7:30-9:00',
+  HEO_SOCIAL_CARD_TITLE_1: '禅海拾英《碧岩录》',
+  HEO_SOCIAL_CARD_TITLE_2: '中国时间：周日早 8:00 - 9:30 ，美东时间：每周六晚 7:00 - 8:30',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入腾讯会议',
-  HEO_SOCIAL_CARD_URL: 'https://meeting.tencent.com/dw/KKFYupjykzoG',
+  HEO_SOCIAL_CARD_URL: 'https://meeting.tencent.com/dm/l0rw1LGw9Zt7',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
