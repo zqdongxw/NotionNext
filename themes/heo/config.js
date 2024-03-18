@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '心中心法简介', url: 'https://blog.customai.win/about' },
-    { title: '十大行愿', url: 'https://blog.customai.win/xingyuan' }
+    { title: '心中心法简介', url: 'https://www.yinxin.pp.ua/about' },
+    { title: '十大行愿', url: 'https://www.yinxin.pp.ua/xingyuan' }
   ],
 
   // 英雄区左右侧组件颠倒位置
