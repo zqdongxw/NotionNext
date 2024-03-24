@@ -258,7 +258,7 @@ const BLOG = {
     {
       name: '踏莎行.无心颂',
       artist: 'suno',
-      url: 'https://app.suno.ai/song/7ed94b7d-9850-4786-b7ea-d10453ec2683',
+      url: 'https://4h3y6x-my.sharepoint.com/:u:/g/personal/haiwei_4h3y6x_onmicrosoft_com/Ecy5SQbk7cdPgLF9QHpVvtoB8EngXuoUEG-P4k2X-_lPXA?e=28BXvE',
       cover:
             'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
