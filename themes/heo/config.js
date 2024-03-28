@@ -81,7 +81,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '《碧岩录》',
   HEO_SOCIAL_CARD_TITLE_2: '周日早 8:00 - 9:30 ',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入腾讯会议',
-  HEO_SOCIAL_CARD_URL: 'https://meeting.tencent.com/dm/l0rw1LGw9Zt7',
+  HEO_SOCIAL_CARD_URL: 'https://meeting.tencent.com/dm/vw3OUsU6OWFT',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
