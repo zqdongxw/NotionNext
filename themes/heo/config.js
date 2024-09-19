@@ -1,4 +1,7 @@
 const CONFIG = {
+  HEO_HOME_POST_TWO_COLS: true, // 首页博客两列显示，若为false则只显示一列
+  HEO_LOADING_COVER: true, // 页面加载的遮罩动画
+
   HEO_HOME_BANNER_ENABLE: true,
 
   HEO_SITE_CREATE_TIME: '2024-01-1', // 建站日期，用于计算网站运行的第几天
@@ -40,6 +43,7 @@ const CONFIG = {
   ],
   
   HEO_INFO_CARD_URL: 'https://4h3y6x-my.sharepoint.com/:f:/g/personal/haiwei_4h3y6x_onmicrosoft_com/Etr-M9unjUFPhwr8JG3GHa0B79zjVCGGuaPCrlvFaRU3vw?e=0M3NVS', // 个人资料底部按钮链接，经测试留空的话有bug
+
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
